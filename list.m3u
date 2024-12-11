@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="Undefined",CityNews (720p)
-https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png",CityNews Toronto (720p)
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
