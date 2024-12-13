@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 ,CityNews Toronto
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 ,CityNews
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 #EXTINF:-1 ,CBC Toronto
