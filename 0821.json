@@ -2,7 +2,7 @@
 "spider":"./jar/fan.txt;md5;82e1794894494fb6ac6251ad967e8e78",
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
 "lives":[{"name":"myTV","type":0,"url":"./mytv.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"综合","type":0,"url":"./tv.m3u","ua": "okhttp/3.15","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
+{"name":"TV","type":0,"url":"http://192.168.0.8:35455/tv.m3u","ua": "okhttp/3.15","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"4GTV","type":0,"url":"./4gtv.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"斗鱼","type":0,"url":"./douyuyqk.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"虎牙","type":0,"url":"./huyayqk.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
