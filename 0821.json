@@ -1,8 +1,8 @@
 {
 "spider":"./jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
-"lives":[{"name":"tv","type":0,"url":"live.catvod.com/tv.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"ftv","type":0,"url":"iptv.4666888.xyz/FYTV.m3u","ua": "okhttp/3.15","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
+"lives":[{"name":"tv","type":0,"url":"http://live.catvod.com/tv.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+{"name":"ftv","type":0,"url":"http://iptv.4666888.xyz/FYTV.m3u","ua": "okhttp/3.15","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"YanG•直播","type":0,"url":"https://tv.iill.top/m3u/Live","ua": "okhttp/3.15","playerType":2},
 {"name":"YanG•体育","type":0,"url":"https://tv.iill.top/m3u/Sport","ua": "okhttp/3.15","playerType":2},
 {"name":"范明明•ipv6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
