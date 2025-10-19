@@ -1,0 +1,36 @@
+CityNews,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+CBC Toronto,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+tvb星河2,https://epg.pw/stream/3388eca1a9b5d5c9a7da8bd8b4da3460113b22b0582b44f51a8111fc90f91749.m3u8
+tv星河,https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
+粤语电影1,http://epg.112114.xyz/douyu/5033502
+粤语电影2,http://epg.112114.xyz/douyu/6566671
+粤语电影3,http://epg.112114.xyz/douyu/1226741
+麓山迷踪 邪 虐 异 染 绝,http://epg.112114.xyz/douyu/7882691
+粤语电影】吴孟达 达叔 周星驰 经典,http://epg.112114.xyz/douyu/1226741
+贝爷MAX厅 60帧电影 科幻 动作,http://epg.112114.xyz/douyu/4332
+神乐✨欧美 电影 科幻 动作 经典喜剧,http://epg.112114.xyz/douyu/20415
+贝爷影厅 欧美 科幻 动作 经典 电影,http://epg.112114.xyz/douyu/252802
+粤语剧,http://epg.112114.xyz/douyu/10338873
+斗鱼音乐华语点歌台,http://epg.112114.xyz/douyu/3186217
+斗鱼电影-恐怖经典,http://epg.112114.xyz/douyu/1165374
+斗鱼电影-恐怖电影,http://epg.112114.xyz/douyu/310926
+斗鱼音乐,http://epg.112114.xyz/douyu/7537296
+斗鱼电影-豆瓣TOP25,http://diyp.112114.xyz/douyu/8770422
+斗鱼连续剧-经典港剧,http://epg.112114.xyz/douyu/4549169
+豆瓣高分,http://api2.52tb.xyz/info?id=1010&token=20230404dmgnht
+恐怖电影,http://epg.112114.xyz/douyu/263824
+凌儿影院,http://epg.112114.xyz/douyu/1377142
+酒染影视,https://www.goodiptv.club/douyu/7550220
+国内剧集,https://www.goodiptv.club/douyu/8157860
+国产剧场,https://www.goodiptv.club/douyu/308752
+斗鱼-【神乐】华语经典电影,http://epg.112114.xyz/douyu/85894
+斗鱼-【神乐】星爷电影 喜剧经典,http://epg.112114.xyz/douyu/122402
+斗鱼-【漫威】主线最佳观影顺序,http://epg.112114.xyz/douyu/6140589
+斗鱼-【漫威】宇宙主线,http://epg.112114.xyz/douyu/11673725
+斗鱼-【蓝翔】华语经典电影,http://epg.112114.xyz/douyu/276200
+斗鱼-【霍格沃茨】,http://epg.112114.xyz/douyu/8814650
+斗鱼-【豆瓣高分】史上最佳影片大放送,http://epg.112114.xyz/douyu/8770422
+斗鱼-【奇光】港鬼片,http://epg.112114.xyz/douyu/8009547
+斗鱼-经典剧作,http://epg.112114.xyz/douyu/11922242
+斗鱼-名侦探柯南,http://epg.112114.xyz/douyu/11954507
+斗鱼-【动漫】皮克斯,http://epg.112114.xyz/douyu/7620081
