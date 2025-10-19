@@ -1,16 +1,18 @@
-#EXTINF:-1 group-title="CityNews"
+#EXTM3U
+#EXTINF:-1,CityNews
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
-#EXTINF:-1 group-title="CBC Toronto"
+#EXTINF:-1 ,CBC Toronto
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-#EXTINF:-1 group-title="TSN1"
+#EXTINF:-1 ,TSN1
 https://fl41.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 group-title="TSN2"
+#EXTINF:-1 ,TSN2
 https://fl41.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 group-title="TSN3"
+#EXTINF:-1 ,TSN3
 https://fl41.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 group-title="TSN4"
+#EXTINF:-1 ,TSN4
 https://fl41.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 group-title="TSN5"
+#EXTINF:-1 ,TSN5
 https://fl41.moveonjoy.com/TSN_5/index.m3u8
+
 
 
