@@ -3,7 +3,7 @@
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
 "lives":[{"name":"catvodtv","type":0,"url":"http://live.catvod.com/tv.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name":"ftv","type":0,"url":"http://iptv.4666888.xyz/FYTV.m3u","ua": "okhttp/3.15","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
-{"name":"smart-v1","type":0,"url":"http://192.168.0.3:5050/smart.m3u?token=pathhill","ua": "okhttp/3.15","playerType":2},
+{"name":"smart-v1","type":0,"url":"http://192.168.0.71:5050/smart.m3u?token=pathhill","ua": "okhttp/3.15","playerType":2},
 {"name":"mytv","type":0,"url":"./mytv.txt","ua": "okhttp/3.15","playerType":2},
 {"name":"范明明•ipv6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YueChan•综合","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
