@@ -3,8 +3,8 @@
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 ,CBC Toronto
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-#EXTINF:-1 ,TSN1
-https://fl41.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 ,NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 ,TSN2
 https://fl41.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 ,TSN3
@@ -13,6 +13,7 @@ https://fl41.moveonjoy.com/TSN_3/index.m3u8
 https://fl41.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 ,TSN5
 https://fl41.moveonjoy.com/TSN_5/index.m3u8
+
 
 
 
