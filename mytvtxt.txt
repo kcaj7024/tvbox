@@ -63,24 +63,8 @@
 
 
 
-极限,http://pull-spectator-re-z4.alivecdn.com:80/live/ef67d6dcf4c51e6069e2963f5febe068.flv
-happy,http://pull-spectator-re-z4.alivecdn.com:80/live/0c95ae51eeef797ccf8d7defa66e2b24.flv
-香蕉,http://pull-spectator-re-z4.alivecdn.com:80/live/f353a93ef86a41fd64443e107b55c25c.flv
-惊艳,http://pull-spectator-re-z4.alivecdn.com:80/live/2ec1b37b2e49e4a4463ecfca2954f27a.flv
-潘多拉,http://pull-spectator-re-z4.alivecdn.com:80/live/0c502e81791d53b90edfb571b05c6b8a.flv
-彩虹电影,http://pull-spectator-re-z4.alivecdn.com:80/live/de470b741683136cf97532811da16cd4.flv
-彩虹k,http://pull-spectator-re-z4.alivecdn.com:80/live/c3d03b889f86208be8c6db3a04dac69d.flv
-彩虹e,http://pull-spectator-re-z4.alivecdn.com:80/live/26c458be6dc050b67e3b61a9555f4b93.flv
-松视3,http://pull-spectator-re-z4.alivecdn.com:80/live/bd77fcde9bd2a75efd44aee13189a035.flv
-松视1,http://pull-spectator-re-z4.alivecdn.com:80/live/e597f3572c4eaef718ef0dd65024e0c2.flv
-
-
-
-
 
 HK测试,#genre#
-菊花台,https://pull.sh.livecheck.alivecdn.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidansstv4.flv
-花花公子,https://pull.sh.livecheck.alivecdn.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidanggy06.flv
 极限电影,https://pull.sh.livecheck.alivecdn.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidanczsstv.flv
 Now星影台,https://pull.sh.livecheck.alivecdn.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidanow01.flv
 Now爆谷台,https://pull.sh.livecheck.alivecdn.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidanow02.flv
@@ -92,18 +76,9 @@ TVBS HD,https://pull.sh.livecheck.alivecdn.com/live/hktv-jfhslkdjngnlkdkgjdlkkgj
 龙祥电影(粤),https://pull.sh.livecheck.alivecdn.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidanlzzl.flv
 东森电影(粤),https://publish.ws.huajiao.com/live/11-AfvKFjUHEGCu3y7VUHyBbmWMf5y0KdbYRc7OU7JBQEjicdrt4GYZIkcZ8C5ch3QB6iaD.flv
 龙祥时代(粤),https://publish.ws.huajiao.com/live/14-h6ROwJli7A49CSXeixuhBKSadW2p0xvCH9PXKrFLmeqgdImgOmKjLjx7N2kCQR5ftLrq.flv
-
-
-
-
-
-
-
 J2,https://smt.858.qzz.io/Smart.php?id=j2_twn
 翡翠,https://smt.858.qzz.io/Smart.php?id=jade_twn
 无线新闻,https://smt.858.qzz.io/Smart.php?id=inews_twn
-
-
 TVB翡翠台,http://hls.168.us.kg/u/81/master.m3u8
 明珠,http://hls.168.us.kg/u/84/master.m3u8
 J2台,http://hls.168.us.kg/u/82/master.m3u8
@@ -122,18 +97,6 @@ Now直播台,http://hls.168.us.kg/u/331/master.m3u8
 
 
 HKTV,#genre#
-
-
-
-
-
-
-
-
- 
-
-
-
 
 POPC,http://tl.061833.xyz/tl/popc
 POPC,http://bxtv.3a.ink/api.php?id=popc
@@ -1131,4 +1094,5 @@ TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=TVBJ1
 综艺玩很大,http://iptv.4666888.xyz/iptv2A.php?id=综艺玩很大
 爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=爱奇艺
 TVBS台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
+
 纬来戏剧,http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
