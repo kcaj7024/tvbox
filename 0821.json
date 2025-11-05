@@ -7,8 +7,8 @@
 {"name":"smart-cn","type":0,"url":"https://tmxk.pp.ua/smart-cn.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"bxtv","type":0,"url":"http://bxtv.3a.ink/live.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"jacktv","type":0,"url":"https://php.946985.filegear-sg.me/jackTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"jack-ice","type":0,"url":"http://m3u14.pathhill.duckdns.org/jackice/playlist.m3u"},
-{"name":"test","type":0,"url":"http://192.168.0.14:8082/test/playlist.m3u"}
+{"name":"jack-ice","type":0,"url":"http://m3u13.pathhill.duckdns.org/jackice/playlist.m3u"},
+{"name":"test","type":0,"url":"http://m3u14.pathhill.duckdns.org/test/playlist.m3u"}
 ],
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
