@@ -7,7 +7,7 @@
 {"name":"smart-cn","type":0,"url":"https://tmxk.pp.ua/smart-cn.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"bxtv","type":0,"url":"http://bxtv.3a.ink/live.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"jacktv","type":0,"url":"https://php.946985.filegear-sg.me/jackTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"judy","type":0,"url":"http://192.168.0.102:5080/m3u/judy.m3u"},
+{"name":"judy","type":0,"url":"http://192.168.0.102:5080/m3u/judy.m3u"}
 ],
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
