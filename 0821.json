@@ -1,12 +1,11 @@
 {
 "spider":"./jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
-"lives":[{"name":"catvodtv","type":0,"url":"http://live.catvod.com/tv.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"ftv","type":0,"url":"http://iptv.4666888.xyz/FYTV.m3u","ua": "okhttp/3.15","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
-{"name":"mytv","type":0,"url":"https://raw.githubusercontent.com/kcaj7024/IPTV-URL/refs/heads/main/mytv.m3u","ua": "okhttp/3.15","playerType":2},
-{"name":"smart-cn","type":0,"url":"https://tmxk.pp.ua/smart-cn.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"bxtv","type":0,"url":"http://bxtv.3a.ink/live.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"jacktv","type":0,"url":"https://php.946985.filegear-sg.me/jackTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+"lives":[{"name":"catvodtv","type":0,"url":"http://live.catvod.com/tv.m3u"},
+{"name":"ftv","type":0,"url":"http://iptv.4666888.xyz/FYTV.m3u"},
+{"name":"mytv","type":0,"url":"https://raw.githubusercontent.com/kcaj7024/IPTV-URL/refs/heads/main/mytv.m3u"},
+{"name":"bxtv","type":0,"url":"http://bxtv.3a.ink/live.m3u"},
+{"name":"jacktv","type":0,"url":"https://php.946985.filegear-sg.me/jackTV.m3u"},
 {"name":"judy","type":0,"url":"http://192.168.0.102:5080/m3u/judy.m3u"}
 ],
 "wallpaper":"https://深色壁纸.xxooo.cf/",
