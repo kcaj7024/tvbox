@@ -1,7 +1,7 @@
 {
   "spider": "./jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce",
   "lives": [
-    {"name": "live","boot": false,"type": 0,"url": "http://iptv.pathhill.duckdns.org/m3u","playerType": 2,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
+    {"name": "live","boot": false,"type": 0,"url": "http://iptv.pathhill.duckdns.org/m3u","playerType": 2,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"}
   ],
   "wallpaper": "https://wallpaper-1tg.pages.dev/",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
